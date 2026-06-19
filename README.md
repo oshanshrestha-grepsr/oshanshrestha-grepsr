@@ -2,7 +2,7 @@
 
 Backend Engineer at Grepsr, working on organization-owned systems, APIs, microservices, workflow orchestration, and cloud infrastructure.
 
-This account is used for professional engineering work inside the Grepsr GitHub organization.
+This account is used for professional engineering work at [@grepsr](https://github.com/grepsr).
 
 ---
 
