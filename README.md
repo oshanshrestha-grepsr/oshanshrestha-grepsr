@@ -17,13 +17,13 @@ This account is used for professional engineering work at [@grepsr](https://gith
 
 ## Tech Stack
 
-**Languages:** Go, Python, TypeScript, JavaScript
-
-**Backend:** REST APIs, microservices, workers, queues, Temporal workflows
+**Backend:** REST APIs, microservices, Temporal workflows
 
 **Cloud:** AWS, Lambda, API Gateway, EC2, IAM, Docker
 
 **Operations:** CI/CD, logs, metrics, tracing, incident debugging
+
+**Languages:** Go, Python, Java, TypeScript, JavaScript <sub> (Is this even relevant with all these capable AI tools?)</sub>
 
 ## What I Care About
 
