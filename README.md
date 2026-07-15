@@ -19,11 +19,11 @@ This account is used for professional engineering work at [@grepsr](https://gith
 
 **Backend:** RPCs & REST APIs, microservices, Temporal workflows
 
-**Cloud:** AWS, Lambda, API Gateway, EC2, IAM, Docker
+**Cloud:** AWS, EKS, Lambda, API Gateway, IAM, Docker, Athena, Bedrock
 
 **Operations:** CI/CD, logs, metrics, tracing, incident debugging
 
-**Languages:** Go, Python, Java, TypeScript, JavaScript <sub> (Is this even relevant with all these capable AI tools?)</sub>
+**Languages:** Go, Python, Rust, Java, TypeScript/JavaScript <sub> (Is this even relevant with all these capable AI tools?)</sub>
 
 ## What I Care About
 
