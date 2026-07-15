@@ -17,7 +17,7 @@ This account is used for professional engineering work at [@grepsr](https://gith
 
 ## Tech Stack
 
-**Backend:** REST APIs, microservices, Temporal workflows
+**Backend:** gRPC & REST APIs, microservices, Temporal workflows
 
 **Cloud:** AWS, Lambda, API Gateway, EC2, IAM, Docker
 
