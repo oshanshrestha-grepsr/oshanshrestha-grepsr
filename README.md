@@ -1,37 +1,37 @@
 # Oshan Shrestha
 
-Backend Engineer at Grepsr, working on organization-owned systems, APIs, microservices, workflow orchestration, and cloud infrastructure.
+Backend Engineer at [@grepsr](https://github.com/grepsr). I build the services and pipelines behind Grepsr's web data platform.
 
-This account is used for professional engineering work at [@grepsr](https://github.com/grepsr).
+This account is for work on Grepsr-owned repositories. For personal and open-source work, see [@shresthaoshan](https://github.com/shresthaoshan).
 
 ---
 
-## Engineering Focus
+## What I Work On
 
-- Backend services and distributed systems
-- Microservice design and service-to-service communication
-- Workflow orchestration with Temporal
-- AWS-based infrastructure and serverless systems
-- API design, reliability, and production debugging
-- Automation for internal engineering workflows
+- **Platform services:** Microservices for accounts, projects, scheduling, exports, delivery, and stats
+- **Data pipelines:** Aggregation, query, and cleanup services for large crawl datasets
+- **Crawling infrastructure:** Crawler runtimes, plugin services, and proxy tooling
+- **Workflow orchestration:** Durable async jobs and schedules with Temporal
+- **Infrastructure:** Kubernetes on AWS EKS, Terraform, and GitOps with Argo CD
+- **AI features:** LLM-backed services on AWS Bedrock
 
 ## Tech Stack
 
-**Backend:** RPCs & REST APIs, microservices, Temporal workflows
+**Languages:** Python, Go, Rust, TypeScript, Java, PHP <sub>(Is this even relevant with all these capable AI tools?)</sub>
 
-**Cloud:** AWS, EKS, Lambda, API Gateway, IAM, Docker, Athena, Bedrock
+**Backend:** REST and RPC APIs, microservices, Temporal workflows, event pipelines
+
+**Cloud & Infra:** AWS (EKS, Lambda, API Gateway, IAM, Athena, Bedrock), Docker, Terraform, Argo CD
 
 **Operations:** CI/CD, logs, metrics, tracing, incident debugging
-
-**Languages:** Go, Python, Rust, Java, TypeScript/JavaScript <sub> (Is this even relevant with all these capable AI tools?)</sub>
 
 ## What I Care About
 
 - Clear service boundaries
 - Reliable async workflows
 - Simple APIs that are easy to maintain
-- Observability that helps debug real production issues
-- Infrastructure that is understandable and repeatable
+- Observability that helps you debug real production issues
+- Infrastructure that is easy to understand and repeat
 
 ## Account Note
 
