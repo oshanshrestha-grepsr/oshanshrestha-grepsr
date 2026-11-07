@@ -1,8 +1,6 @@
 # Oshan Shrestha
 
-Backend Engineer at [@grepsr](https://github.com/grepsr). I build the services and pipelines behind Grepsr's web data platform.
-
-This account is for work on Grepsr-owned repositories. For personal and open-source work, see [@shresthaoshan](https://github.com/shresthaoshan).
+Backend Engineer at [@grepsr](https://github.com/grepsr). I build the services and pipelines behind Grepsr's web data platform. Most recently, I have worked on [**pline.ai**](https://pline.ai), Grepsr's API for scraping, crawling, and searching the web.
 
 ---
 
